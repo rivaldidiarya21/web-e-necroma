@@ -1,0 +1,123 @@
+body {
+	background: url(889584-snow-wallpaper.jpg);
+	font-family: Tahoma;
+	font-size: 12px;
+}
+
+#main {
+	margin: 0 auto;
+	width: 1050px;
+	background-color:#FFFFFF;
+	border: 1px solid #000000;
+}
+
+.clear {
+	clear: both;
+	padding: 11px;
+	float: none;
+}
+
+#header {
+	background-color: #000066;
+	height:400px;
+}
+
+
+#menutop {
+	background-color: #cccccc;
+	border: 1px solid #000000;
+	padding: 11px;
+	
+}
+
+#menutop li {
+	display: inline; 
+	
+}
+
+#menutop li a {
+	color: #333333; 
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+#menutop li a:hover { 
+	color:#FF3300; 
+}
+
+#footer{
+	background-color: #FFF;
+	height: 100px;
+	margin: 10px;
+	font-size: 12px;
+
+}
+
+#left{
+	margin:5px;
+	width:150px;
+	float:left;
+}
+
+#middle{
+	margin:5px;
+	width:675px;
+	float:left;
+}
+
+#right{
+	margin:5px;
+	width:150px;
+	float:left;
+}
+
+#bg_menu {
+	background-color: #000033;
+	background: #06F ;
+	border: 1px solid #555555;
+	border-bottom: 0px;
+	padding: 7px;
+	padding-left: 10px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 11px;
+		
+}
+
+#content_menu{
+	background-color: #eeeeee;
+	border: 1px solid #555555;
+	line-height: 16px;
+	padding: 8px;
+	margin-bottom: 10px;
+}
+
+#content_menu a{
+	color:#006699;
+	text-decoration:none;
+	font-size:11px;
+}
+
+#content_menu a:hover{
+	color:#CCCCCC;
+}
+#table,tr,td{
+	margin:10px;
+	padding:5px;
+}
+
+.button {
+  transition-duration: 0.4s;
+  font-size: 24px;
+  
+}
+
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: blue;
+}
+
+
